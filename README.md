@@ -8,5 +8,5 @@ This app helps users efficiently manage daily tasks by adding, completing, or de
 - JavaScript  
 
 ## 🚀 Live Demo
-[Click here to view](https://github.com/user-attachments/assets/bd476ffc-8faf-432d-8e2c-4ea538e211d5)
+[Click here to view](https://github.com/user-attachments/assets/a6907100-1840-43cf-93a4-fb5149d8f3a6)
 
